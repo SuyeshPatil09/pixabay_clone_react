@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div style={{textAlign:"center" , justifyContent:"center"}}>
       <div>
-      <h1  style={{color:"Blue"}}><b>Created by Suyesh Patil</b></h1>
+      <h1  style={{color:"DarkCyan"}}><b>Created by Suyesh Patil</b></h1>
       </div>
       
     <Navbar />
