@@ -65,7 +65,7 @@ const Navbar = () => {
       </button>
     </div>
     
-<div className="container" style={{width:"800px"}}>
+<div className="container" style={{width:"45%"}}>
   
 <input type="text" onChange={(e) => setQuery(e.target.value)} className="form-control bg-dark text-light" ></input>
 </div>
